@@ -1,0 +1,22 @@
+CitiBike Tableau Homework
+
+CitiBike has an exhaustive dataset available for Data Analysis.
+Considering the time frame and restriction with Tableau public, I have considered data for the months of July, August and September.
+
+As each and every trip is documented even the three months data gave a great prospective of the trend in the market.
+
+Various grpahs/dashboards are considered during the study to analyse and understand various attributes of the dataset
+
+1. Graph 1 gives an overview of the number of trips in each month and how average trip duration has changed each month.
+2. Graph 2 decribes the busiest hour of the day - which not surprisingly are the times between 7am -9am and 4pm to 7pm. 
+   Hence, we can say, the rides are being taken mostly by working professionals who use bikes to cover the last mile distance to their workplace.
+3. Graph 3,4 and 5 sums up the how the trend of CitiBike customer's in term of demographics (age, gender and type). Interestingly, women 
+   riders are less than men riders, but, the avergae trip duration of women is higher than those of men. People who have an annual 
+   subscrption form a form chunk of the customers taking rides. Whereas, subscribers (one-time customers) have a higher average trip 
+   duration.
+4. Visuals 6 to 11 shows the station locations, average trip duration from each location and the numder of trips taken from start and end
+   stations.
+5. Mostly all graphs are self-explanatory but, have tried to summarize everything in the form of dashboards and stories.
+6. PS: In Bottom 10 end stations graphs - there are two stations namely Brunkswick Street, only one trip ended at this station but average
+   trip duration was 787,220 secs. Another such example is where station name is Union St., number of records =1 but average trip
+   duration is 605,277. Hence, other 8 stations become negligible.
